@@ -1,0 +1,8 @@
+{
+  "name": "Taurus Translate",
+  "description": "Real-time AI translation app designed for Bluetooth earbuds. Translates any spoken language into Myanmar and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
